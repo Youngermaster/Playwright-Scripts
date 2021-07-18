@@ -1,0 +1,22 @@
+{
+  "name": "playwright-scripts",
+  "version": "1.0.0",
+  "description": "This repo contains some Playwright scripts I'm using to learn Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Youngermaster/Playwright-Scripts.git"
+  },
+  "author": "Juan Manuel Young Hoyos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Youngermaster/Playwright-Scripts/issues"
+  },
+  "homepage": "https://github.com/Youngermaster/Playwright-Scripts#readme",
+  "devDependencies": {
+    "playwright": "^1.12.3"
+  }
+}
